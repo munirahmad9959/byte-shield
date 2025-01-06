@@ -2,8 +2,31 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:ByteShield"
-             StartupUri="MainWindow.xaml">
+             xmlns:extensions="clr-namespace:ByteShield.Core"
+             xmlns:view="clr-namespace:ByteShield.MVVM.View"
+             xmlns:vms="clr-namespace:ByteShield.MVVM.ViewModel"
+             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             StartupUri="MVVM/View/MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--Themes-->
+                <ResourceDictionary Source="/Themes/TitlebarButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/MenuButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/ConnectButton.Nord.xaml"/>
+                <ResourceDictionary Source="/Themes/ServerListTheme.Nord.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type vms:ProtectionViewModel}">
+                <view:ProtectionView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type vms:SettingsViewModel}">
+                <view:SettingsView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+
+
     </Application.Resources>
 </Application>
