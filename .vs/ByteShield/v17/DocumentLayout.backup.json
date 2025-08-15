@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\byteshield\\ByteShield\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\themes\\serverlisttheme.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:themes\\serverlisttheme.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\view\\protectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\view\\protectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\model\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\model\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\themes\\connectbutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:themes\\connectbutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\themes\\titlebarbutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:themes\\titlebarbutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\themes\\menubutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:themes\\menubutton.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|d:\\github\\byteshield\\byteshield\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A40B99-FCA7-431B-92F3-FAD1093004F0}|ByteShield.csproj|solutionrelative:core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,77 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServerModel.cs",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\MVVM\\Model\\ServerModel.cs",
-              "RelativeDocumentMoniker": "MVVM\\Model\\ServerModel.cs",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\Model\\ServerModel.cs",
-              "RelativeToolTip": "MVVM\\Model\\ServerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:51:47.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ProtectionViewModel.cs",
               "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\MVVM\\ViewModel\\ProtectionViewModel.cs",
               "RelativeDocumentMoniker": "MVVM\\ViewModel\\ProtectionViewModel.cs",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\ViewModel\\ProtectionViewModel.cs",
-              "RelativeToolTip": "MVVM\\ViewModel\\ProtectionViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABDAAAAAAAAAA==",
+              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\ViewModel\\ProtectionViewModel.cs*",
+              "RelativeToolTip": "MVVM\\ViewModel\\ProtectionViewModel.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADYAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:51:29.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProtectionView.xaml.cs",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\ProtectionView.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\View\\ProtectionView.xaml.cs",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\ProtectionView.xaml.cs",
-              "RelativeToolTip": "MVVM\\View\\ProtectionView.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T17:50:51.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServerListTheme.Nord.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\Themes\\ServerListTheme.Nord.xaml",
-              "RelativeDocumentMoniker": "Themes\\ServerListTheme.Nord.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\Themes\\ServerListTheme.Nord.xaml*",
-              "RelativeToolTip": "Themes\\ServerListTheme.Nord.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T17:27:04.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T17:23:31.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConnectButton.Nord.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\Themes\\ConnectButton.Nord.xaml",
-              "RelativeDocumentMoniker": "Themes\\ConnectButton.Nord.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\Themes\\ConnectButton.Nord.xaml",
-              "RelativeToolTip": "Themes\\ConnectButton.Nord.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T16:37:20.454Z",
+              "WhenOpened": "2025-01-07T10:25:58.758Z",
               "EditorCaption": ""
             },
             {
@@ -144,56 +50,21 @@
               "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\ProtectionView.xaml",
               "RelativeToolTip": "MVVM\\View\\ProtectionView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T16:29:44.004Z",
+              "WhenOpened": "2025-01-07T10:23:48.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TitlebarButton.Nord.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\Themes\\TitlebarButton.Nord.xaml",
-              "RelativeDocumentMoniker": "Themes\\TitlebarButton.Nord.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\Themes\\TitlebarButton.Nord.xaml",
-              "RelativeToolTip": "Themes\\TitlebarButton.Nord.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T13:28:42.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\MainWindow.xaml",
-              "RelativeToolTip": "MVVM\\View\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T13:21:35.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuButton.Nord.xaml",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\Themes\\MenuButton.Nord.xaml",
-              "RelativeDocumentMoniker": "Themes\\MenuButton.Nord.xaml",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\Themes\\MenuButton.Nord.xaml",
-              "RelativeToolTip": "Themes\\MenuButton.Nord.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T14:47:56.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\View\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\MVVM\\View\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MVVM\\View\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Github\\byteshield\\ByteShield\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Core\\RelayCommand.cs",
+              "ToolTip": "D:\\Github\\byteshield\\ByteShield\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Core\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T13:44:34.048Z"
+              "WhenOpened": "2025-01-07T10:23:15.134Z",
+              "EditorCaption": ""
             }
           ]
         }

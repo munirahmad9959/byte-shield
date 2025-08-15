@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ByteShield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19c62851e108715bc62f108250db50fd56c497e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c31294fd5eb7381b54cc1fa26a7d77120831955")]
 [assembly: System.Reflection.AssemblyProductAttribute("ByteShield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ByteShield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

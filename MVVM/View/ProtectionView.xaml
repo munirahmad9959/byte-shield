@@ -33,11 +33,14 @@
           BorderThickness="0"
           ScrollViewer.CanContentScroll="False" />
 
+        <TextBlock Text="{Binding ConnectionStatus}" Grid.Row="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
         <Button Width="250"
         Height="45"
         Content="Connect"
         Grid.Row="1"
-        Style="{StaticResource ConnectButtonStyle}"/>
+        Style="{StaticResource ConnectButtonStyle}"
+        Command="{Binding ConnectCommand}"/>
 
 
 
